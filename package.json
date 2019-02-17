@@ -1,0 +1,19 @@
+{
+  "name": "pear",
+  "version": "1.0.0",
+  "description": "Oh! I have a pear.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkvim/pear.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkvim/pear/issues"
+  },
+  "homepage": "https://github.com/jkvim/pear#readme"
+}
